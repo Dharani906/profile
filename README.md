@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Dharani </h1>
+
+
+<h3 align="center">✨ “Design. Develop. Deploy.” ✨</h3><h1 align="center">Hi 👋, I'm Dharani </h1>
 <h3 align="center">🌐 Website Developer | 🎨 Frontend Designer | ⚡ UI/UX Creator</h3>
 
 <p align="center">
@@ -56,5 +58,3 @@
 </p>
 
 ---
-
-<h3 align="center">✨ “Design. Develop. Deploy.” ✨</h3>
